@@ -1,11 +1,11 @@
 # cncbash
 
-<h1>Requeriments:</h1>
+<h2>Requeriments:</h2>
 </br>
-Metasploit
+<h1>Metasploit</h1>
 </br>
-(Recomend) Distribution of Pentest
+<h1>(Optional) Distribution of Pentest</h1>
 </br>
-Wine
+<h1>Wine</h1>
 </br>
-MinGW
+<h1>MinGW</h1>
