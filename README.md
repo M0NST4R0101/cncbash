@@ -2,10 +2,10 @@
 
 <h1>Requeriments:</h1>
 </br>
-<h2>Metasploit</h2>
+<h3>Metasploit</h3>
 </br>
-<h2>(Optional) Distribution of Pentest</h2>
+<h3>(Optional) Distribution of Pentest</h3>
 </br>
-<h2>Wine</h2>
+<h3>Wine</h3>
 </br>
-<h2>MinGW</h2>
+<h3>MinGW</h3>
